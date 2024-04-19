@@ -1,0 +1,132 @@
+[
+    {
+        "id":"id_0",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:The result is that the graduates cannot enter the professions for which they are trained and must take temporary jobs,which do not require a college degree."
+            },
+            {
+                "from":"assistant",
+                "value":"其结果是这些毕业生找不到与他们大学专业对口的工作，只得找一些临时的，根本用不着大学学历的工作。"
+            }
+        ]
+    },
+    {
+        "id":"id_1",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:These people have more work than they can handle and their annual incomes are often higher than those of college graduates."
+            },
+            {
+                "from":"assistant",
+                "value":"这些人的工作多得供不应求，他们的年薪比那些大学毕业生的年薪要高得多。"
+            }
+        ]
+    },
+    {
+        "id":"id_2",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:Americans are careful about how and when they meet one another’s eyes."
+            },
+            {
+                "from":"assistant",
+                "value":"美国人特别在意眼神的交流，也很在意什么时候，如何进行眼神的交流。"
+            }
+        ]
+    },
+    {
+        "id":"id_3",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:Communication between human beings would be just dull if it were all done with words."
+            },
+            {
+                "from":"assistant",
+                "value":"人与人之间的交流如果只用语言来进行的话，那肯定会很乏味。"
+            }
+        ]
+    },
+    {
+        "id":"id_4",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:Experts say chikldren can begin learning a second language in preschool,and should begin before the age of ten to take advantage of young children’s natural to avquire language."
+            },
+            {
+                "from":"assistant",
+                "value":"专家认为儿童可以在学龄前就开始学习外语，而是应该在１０岁以前开始，以便利用儿童天生的语言学习能力。"
+            }
+        ]
+    },
+    {
+        "id":"id_5",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:Still, if children are going to devote the six years or so of study it takes to master a second language,starting early just makes sense."
+            },
+            {
+                "from":"assistant",
+                "value":"如果一个孩子想用六年左右的时间学会一门外语，早点开始还是不错的。"
+            }
+        ]
+    },
+    {
+        "id":"id_6",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:The people who live in North Island,New Zealand,make use of the heat that comes from inside the earth."
+            },
+            {
+                "from":"assistant",
+                "value":"生活在新西兰北岛的人们利用来自地表面的热能。"
+            }
+        ]
+    },
+    {
+        "id":"id_7",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:It takes money to pay for the coal,oil and gas."
+            },
+            {
+                "from":"assistant",
+                "value":"使用煤，燃油和燃气是要付钱的。"
+            }
+        ]
+    },
+    {
+        "id":"id_8",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:Traditionally,universities have carried out two main activities;research and teaching carried out two main activities;research and teaching."
+            },
+            {
+                "from":"assistant",
+                "value":"大学的传统功能就好似教学与研究。"
+            }
+        ]
+    },
+    {
+        "id":"id_9",
+        "conversations": [
+            {
+                "from":"user",
+                "value":"翻译:Apart from requiring medical and social services, which do not directly contribute to economic growth,the society shoulda also value and enjoy literature,music and the arts."
+            },
+            {
+                "from":"assistant",
+                "value":"除了医疗服务，社会服务，这些不直接为经济增长作贡献的服务项目，社会还需要文学，音乐和艺术的享受。"
+            }
+        ]
+    }
+]
